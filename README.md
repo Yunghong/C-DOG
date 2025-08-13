@@ -44,7 +44,7 @@ C-DOG relies on common Python packages, making setup and execution straightforwa
 # 📜 Citation
 If you use this work in your research, please cite:
 <pre>@article{sun2025c,
-  title={C-DOG: Multi-View Multi-instance Feature Association Using Connected δ-Overlap Graphs}$-Overlap Graphs},
+  title={C-DOG: Multi-View Multi-instance Feature Association Using Connected δ-Overlap Graphs},
   author={Sun, Yung-Hong and Lin, Ting-Hung and Chen, Jiangang and Jiang, Hongrui and Hu, Yu Hen},
   journal={arXiv preprint arXiv:2507.14095},
   year={2025}
