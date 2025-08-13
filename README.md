@@ -15,10 +15,10 @@ A lightweight multi-view multi-object association tool. It bridges the 2D detect
 1.Unzip datasets
 Unzip `benchmarks.zip` and `data.zip` into the same directory.
 2.Folder contents
--'benchmark/'
+* `benchmark/`
 Contains a sample test case with 130 object instances, represented as points.
 
--'data/'
+*`data/`
 Contains camera pose data:
 
  -K – 3×3 intrinsic matrix
