@@ -16,21 +16,21 @@ A lightweight multi-view multi-object association tool. It bridges the 2D detect
 Unzip `benchmarks.zip` and `data.zip` into the same directory.
 
 2.Folder contents
-* `benchmark/`
+- `benchmark/`
 Contains a sample test case with 130 object instances, represented as points.
 
-* `data/`
+- `data/`
 Contains camera pose data:
 
-** K – 3×3 intrinsic matrix
+  - K – 3×3 intrinsic matrix
 
-** R – 3×3 rotation matrix
+  - R – 3×3 rotation matrix
 
-** T – 1×3 translation vector
+  - T – 1×3 translation vector
 
-** Default setup: 10 cameras, total 10 sets of K, R, T (adjustable).
+  - Default setup: 10 cameras, total 10 sets of K, R, T (adjustable).
 
-** Calibrated using [OpenMVG](https://github.com/openMVG/openMVG) in the [EasyVis pipeline](https://github.com/Yunghong/EasyVis).
+  - Calibrated using [OpenMVG](https://github.com/openMVG/openMVG) in the [EasyVis pipeline](https://github.com/Yunghong/EasyVis).
 
 3. Custom camera data
 Replace with your own 'K', 'R', 'T' files in the same format to run C-DOG on your dataset.
