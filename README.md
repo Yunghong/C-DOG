@@ -39,6 +39,8 @@ Replace with your own 'K', 'R', 'T' files in the same format to run C-DOG on you
 Run the main script:
 <pre>python main.py  </pre>
 
+The script outputs the associated 2D point groups, where each group contains 10 2D points (one per camera), and invalid points are marked as [-1, -1].
+
 C-DOG relies on common Python packages, making setup and execution straightforward.
 
 # 📜 Citation
