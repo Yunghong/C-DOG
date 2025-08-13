@@ -36,13 +36,13 @@ Replace with your own 'K', 'R', 'T' files in the same format to run C-DOG on you
 
 # 🚀 Usage
 Run the main script:
-<pre>  python main.py  </pre>
+<pre>python main.py  </pre>
 
 C-DOG relies on common Python packages, making setup and execution straightforward.
 
 # 📜 Citation
 If you use this work in your research, please cite:
-<pre> @article{sun2025c,
+<pre>@article{sun2025c,
   title={C-DOG: Multi-View Multi-instance Feature Association Using Connected δ-Overlap Graphs}$-Overlap Graphs},
   author={Sun, Yung-Hong and Lin, Ting-Hung and Chen, Jiangang and Jiang, Hongrui and Hu, Yu Hen},
   journal={arXiv preprint arXiv:2507.14095},
